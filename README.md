@@ -3,6 +3,8 @@
 
 A collection of .workflow files to use with [Alfred 3](https://www.alfredapp.com/) ([Powerpack](https://www.alfredapp.com/powerpack/) required).
 
+
+
 ## Jira Stories (V1.0.1) - [Download](https://github.com/demgerolemou/alfred-workflows/blob/master/jira-stories/jira-stories.alfredworkflow)
 ### Functionality
 A workflow that allows you to quickly open a Jira Story.
@@ -13,6 +15,7 @@ Update `projectName` in `Workflow Configuration (Environment Variables)` to your
 ### Triggers
 `STR {query}`
 `STR-{query}`
+
 
 
 ## Hangouts (V1.0.2) - [Download](https://github.com/demgerolemou/alfred-workflows/blob/master/hangouts/hangouts.alfredworkflow)
